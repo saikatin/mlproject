@@ -1,0 +1,10 @@
+model,r2
+LinearRegression,0.88
+Ridge,0.88
+RandomForestRegressor,0.85
+CatBoostRegressor,0.85
+AdaBoostRegressor,0.84
+Lasso,0.83
+XGBRegressor,0.83
+KNeighborsRegressor,0.78
+DecisionTreeRegressor,0.76
